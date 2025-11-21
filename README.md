@@ -99,7 +99,7 @@ Os elementos em um array são numerados, começando no 0. No exemplo abaixo o n�
 
 ```go
 [10][20][30][40]
- 0   1   2   4
+ 0   1   2   3
 ```
 
 ### Ordenação por seleção
