@@ -18,6 +18,17 @@ A medida que os exercícios forem sendo resolvidos, este README será atualizado
 
 * **Código Fonte em Go:** Implementações claras e comentadas dos algoritmos e estruturas de dados.
 * **Explicações (neste README):** Uma breve descrição da minha compreensão de cada estrutura de dados implementada, incluindo seus conceitos chave e como a implementação em Go se relaciona com a teoria do livro.
+  
+### 📚 Sumário de Capítulos e Algoritmos
+
+* **[Capítulo 1: Introdução à Busca Binária](#capítulo-1)**
+  
+    * [Busca Binária](#busca-binária)
+    * [Notação Big O](#notação-big-o)
+* **[Capítulo 2: Arrays e Listas Encadeadas](#capítulo-2)**
+
+    * [Arrays e Listas Encadeadas](#array)
+    * [Ordenação por Seleção](#ordenação-por-seleção)
 
 ## Capítulo 1
 
